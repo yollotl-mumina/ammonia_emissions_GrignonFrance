@@ -1,0 +1,17 @@
+quantity,unit,value
+"Liquid-organic NH3-N, EMEP (0.55*TAN)",kg N/ha,239.65
+"Liquid-organic NH3-N, ALFAM2",kg N/ha,197.23
+"Model-choice effect (ALFAM2 - EMEP), liquid organic",kg N/ha,-42.42
+"ALFAM2/EMEP ratio (sum, liquid organic)",-,0.82
+"Liquid-organic indirect N2O, EMEP",kg CO2eq/ha,1028.09
+"Liquid-organic indirect N2O, ALFAM2",kg CO2eq/ha,846.11
+Model-choice effect on indirect N2O,kg CO2eq/ha,-181.98
+"Whole inventory, EMEP only",kg N/ha,1125.5
+"Whole inventory, hybrid (ALFAM2 for liquid organic)",kg N/ha,1083.08
+Whole-inventory shift from model choice,kg N/ha,-42.42
+Band intensity used (ALFAM2 band digestate),% TAN,42.77
+"Broadcast digestate NH3-N, as modelled",kg N/ha,104.5
+"Broadcast digestate NH3-N, band counterfactual",kg N/ha,53.63
+Avoided NH3-N by band application,kg N/ha,50.87
+Avoided indirect N2O (central EF4),kg CO2eq/ha,218.23
+Avoided indirect N2O (EF4 low-high),kg CO2eq/ha range,44-393

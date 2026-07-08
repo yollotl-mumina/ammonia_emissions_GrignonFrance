@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Modelling Ammonia Volatilization and Indirect Nitrous Oxide across the Cropping Systems of the Trajectoire Platform"
+authors:
+  - family-names: "Zúñiga-Jiménez"
+    given-names: "Daniela"
+    affiliation: "AgroParisTech / UMR ECOSYS (INRAE / AgroParisTech, Université Paris-Saclay)"
+date-released: 2026-01-01
+version: "1.0.0"
+license: MIT
+keywords:
+  - ammonia volatilization
+  - NH3
+  - indirect N2O
+  - EMEP Tier 2
+  - ALFAM2
+  - digestate
+  - anaerobic digestion

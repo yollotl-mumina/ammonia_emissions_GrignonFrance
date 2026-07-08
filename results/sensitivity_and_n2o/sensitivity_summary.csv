@@ -1,0 +1,13 @@
+quantity,unit,value
+"NH3-N total, corrected (Entec ASN)",kg N/ha,667.24
+"NH3-N total, baseline (Entec AS)",kg N/ha,729.86
+Entec toggle effect on NH3-N,kg N/ha,-62.63
+N2O-N total,kg N/ha,6.67
+N2O total,kg/ha,10.49
+"CO2eq central (EF4=0.010, GWP=273)",kg CO2eq/ha,2862.46
+CO2eq low (EF4=0.002),kg CO2eq/ha,572.49
+CO2eq high (EF4=0.018),kg CO2eq/ha,5152.42
+Entec toggle effect on CO2eq,kg CO2eq/ha,-268.66
+CO2eq with GWP AR6 (273),kg CO2eq/ha,2862.46
+CO2eq with GWP AR5 (265),kg CO2eq/ha,2778.57
+CO2eq with GWP AR4 (298),kg CO2eq/ha,3124.59

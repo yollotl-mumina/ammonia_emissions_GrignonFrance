@@ -1,0 +1,12 @@
+ID_evenement,Systeme,Categorie_en,app_mthd,TAN_app_kgNha,EMEP_kgNha,ALFAM2_kgNha,emis_pct_TAN
+130,MF,Slurry,bc,42.347,23.291,11.286,26.651
+133,MF,Slurry,bc,0.589,0.324,0.381,64.712
+136,MF,Slurry,bsth,0.729,0.401,0.169,23.119
+140,MF,Slurry,bsth,31.059,17.082,8.19,26.37
+141,MF,Slurry,bsth,41.067,22.587,13.542,32.974
+143,MF,Slurry,bsth,36.236,19.93,5.892,16.26
+148,MF,Slurry,bsth,49.368,27.152,6.68,13.53
+96,CTR,Digestate,bsth,54.472,29.96,23.297,42.768
+150,MF,Digestate,bsth,54.472,29.96,23.297,42.768
+97,CTR,Digestate,bc,62.693,34.481,52.248,83.339
+151,MF,Digestate,bc,62.693,34.481,52.248,83.339
