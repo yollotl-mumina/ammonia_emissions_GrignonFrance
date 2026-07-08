@@ -108,7 +108,7 @@ a one-page summary is in [`report/Executive_Summary.docx`](report/Executive_Summ
 If you use this work, please cite it (see [`CITATION.cff`](CITATION.cff)):
 
 > Zúñiga-Jiménez, D. (2026). *Modelling Ammonia Volatilization and Indirect Nitrous Oxide across
-> the Cropping Systems of the Trajectoire Platform.* AgroParisTech / UMR ECOSYS.
+> the Cropping Systems of the Trajectoire Platform.* AgroParisTech.
 
 ## License
 
@@ -117,4 +117,4 @@ shared for academic use; please attribute the author.
 
 ## Contact
 
-Daniela Zúñiga-Jiménez — AgroParisTech / UMR ECOSYS (INRAE / AgroParisTech, Université Paris-Saclay).
+Daniela Zúñiga-Jiménez 
